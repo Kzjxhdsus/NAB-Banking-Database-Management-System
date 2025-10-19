@@ -1,0 +1,701 @@
+merchant_id,merchant_name,merchant_city,merchant_state,zip,mcc,mcc_description
+M0188,Store_0,Brisbane,QLD,59643,5411,Retail Store
+M0145,Store_1,Sydney,NSW,32772,5814,Restaurant/Food
+M0503,Store_2,Sydney,NSW,84065,5411,Retail Store
+M0363,Store_3,Melbourne,VCT,40146,5732,Electronics Store
+M0695,Store_4,Brisbane,QLD,38427,5814,Restaurant/Food
+M0376,Store_5,Sydney,NSW,92890,5814,Restaurant/Food
+M0648,Store_6,Adelaide,SA,59045,5814,Restaurant/Food
+M0115,Store_7,Perth,WA,32346,5814,Restaurant/Food
+M0642,Store_8,Brisbane,QLD,96957,5732,Electronics Store
+M0403,Store_9,Sydney,NSW,33364,6011,Financial Institution
+M0507,Store_10,Darwin,NT,23541,5814,Restaurant/Food
+M0223,Store_11,Brisbane,QLD,17793,5732,Electronics Store
+M0534,Store_12,Sydney,NSW,78268,6011,Financial Institution
+M0508,Store_13,Brisbane,QLD,31871,5999,Miscellaneous Retail
+M0651,Store_14,Perth,WA,62407,5814,Restaurant/Food
+M0462,Store_15,Sydney,NSW,49437,5411,Retail Store
+M0016,Store_16,Brisbane,QLD,17434,5814,Restaurant/Food
+M0478,Store_17,Brisbane,QLD,43916,4111,Transportation
+M0354,Store_18,Darwin,NT,46979,6011,Financial Institution
+M0246,Store_19,Sydney,NSW,12159,6011,Financial Institution
+M0480,Store_20,Perth,WA,70931,5814,Restaurant/Food
+M0118,Store_21,Perth,WA,74766,5814,Restaurant/Food
+M0163,Store_22,Melbourne,VCT,13332,5814,Restaurant/Food
+M0356,Store_23,Adelaide,SA,29085,5814,Restaurant/Food
+M0346,Store_24,Brisbane,QLD,31259,5814,Restaurant/Food
+M0204,Store_25,Sydney,NSW,94877,5814,Restaurant/Food
+M0373,Store_26,Sydney,NSW,78085,5999,Miscellaneous Retail
+M0343,Store_27,Darwin,NT,93964,5411,Retail Store
+M0517,Store_28,Adelaide,SA,52121,5411,Retail Store
+M0397,Store_29,Perth,WA,54095,5732,Electronics Store
+M0656,Store_30,Adelaide,SA,70426,5411,Retail Store
+M0498,Store_31,Adelaide,SA,12994,5411,Retail Store
+M0583,Store_32,Melbourne,VCT,72021,4111,Transportation
+M0697,Store_33,Canberra,ACT,49425,5411,Retail Store
+M0167,Store_34,Perth,WA,15176,4111,Transportation
+M0096,Store_35,Perth,WA,49904,5732,Electronics Store
+M0111,Store_36,Darwin,NT,42389,5814,Restaurant/Food
+M0231,Store_37,Melbourne,VCT,16657,6011,Financial Institution
+M0673,Store_38,Melbourne,VCT,69600,4111,Transportation
+M0222,Store_39,Adelaide,SA,44744,5814,Restaurant/Food
+M0509,Store_40,Melbourne,VCT,32823,6011,Financial Institution
+M0119,Store_41,Perth,WA,82706,5732,Electronics Store
+M0592,Store_42,Brisbane,QLD,43060,5411,Retail Store
+M0422,Store_43,Darwin,NT,93227,5411,Retail Store
+M0352,Store_44,Brisbane,QLD,61629,5411,Retail Store
+M0217,Store_45,Darwin,NT,55699,5814,Restaurant/Food
+M0420,Store_46,Sydney,NSW,78831,5411,Retail Store
+M0495,Store_47,Brisbane,QLD,40717,5999,Miscellaneous Retail
+M0680,Store_48,Brisbane,QLD,76661,5814,Restaurant/Food
+M0573,Store_49,Canberra,ACT,71301,5411,Retail Store
+M0191,Store_50,Brisbane,QLD,71778,6011,Financial Institution
+M0579,Store_51,Darwin,NT,41672,6011,Financial Institution
+M0228,Store_52,Canberra,ACT,66853,5999,Miscellaneous Retail
+M0491,Store_53,Canberra,ACT,91063,5814,Restaurant/Food
+M0558,Store_54,Darwin,NT,79775,5814,Restaurant/Food
+M0082,Store_55,Brisbane,QLD,89785,5732,Electronics Store
+M0487,Store_56,Adelaide,SA,84518,5999,Miscellaneous Retail
+M0506,Store_57,Sydney,NSW,70335,5732,Electronics Store
+M0688,Store_58,Darwin,NT,44550,5411,Retail Store
+M0631,Store_59,Darwin,NT,80101,5814,Restaurant/Food
+M0012,Store_60,Sydney,NSW,66060,4111,Transportation
+M0387,Store_61,Brisbane,QLD,48948,5814,Restaurant/Food
+M0672,Store_62,Perth,WA,57871,5411,Retail Store
+M0099,Store_63,Adelaide,SA,64225,5732,Electronics Store
+M0212,Store_64,Canberra,ACT,85778,6011,Financial Institution
+M0336,Store_65,Adelaide,SA,92212,4111,Transportation
+M0552,Store_66,Darwin,NT,56601,5999,Miscellaneous Retail
+M0229,Store_67,Adelaide,SA,77575,5999,Miscellaneous Retail
+M0026,Store_68,Melbourne,VCT,53559,5411,Retail Store
+M0048,Store_69,Darwin,NT,39488,5732,Electronics Store
+M0062,Store_70,Canberra,ACT,81862,5999,Miscellaneous Retail
+M0483,Store_71,Canberra,ACT,54457,5411,Retail Store
+M0415,Store_72_ALT,Perth,WA,17481,5411,Retail Store
+M0219,Store_73,Brisbane,QLD,43511,5411,Retail Store
+M0318,Store_74,Brisbane,QLD,58034,5411,Retail Store
+M0190,Store_75,Canberra,ACT,93269,5732,Electronics Store
+M0602,Store_76,Sydney,NSW,89390,5814,Restaurant/Food
+M0538,Store_77,Canberra,ACT,47873,5411,Retail Store
+M0628,Store_78,Sydney,NSW,93756,5411,Retail Store
+M0530,Store_79,Brisbane,QLD,62263,4111,Transportation
+M0173,Store_80,Canberra,ACT,32381,5411,Retail Store
+M0237,Store_81,Brisbane,QLD,70651,5411,Retail Store
+M0009,Store_82,Canberra,ACT,93089,5411,Retail Store
+M0245,Store_83,Adelaide,SA,18874,5814,Restaurant/Food
+M0221,Store_84,Brisbane,QLD,82994,5999,Miscellaneous Retail
+M0447,Store_85,Perth,WA,50662,6011,Financial Institution
+M0441,Store_86,Canberra,ACT,45806,5814,Restaurant/Food
+M0315,Store_87,Adelaide,SA,62984,5999,Miscellaneous Retail
+M0036,Store_88,Canberra,ACT,37429,4111,Transportation
+M0610,Store_89,Adelaide,SA,73884,6011,Financial Institution
+M0013,Store_90,Darwin,NT,52208,5999,Miscellaneous Retail
+M0275,Store_91,Canberra,ACT,53768,5999,Miscellaneous Retail
+M0138,Store_92,Perth,WA,76832,5999,Miscellaneous Retail
+M0203,Store_93,Sydney,NSW,45022,5814,Restaurant/Food
+M0260,Store_94,Brisbane,QLD,48459,5411,Retail Store
+M0357,Store_95,Brisbane,QLD,91661,4111,Transportation
+M0414,Store_96,Darwin,NT,34384,5411,Retail Store
+M0189,Store_97,Darwin,NT,41436,5411,Retail Store
+M0160,Store_98,Canberra,ACT,84538,5814,Restaurant/Food
+M0074,Store_99,Darwin,NT,22097,5411,Retail Store
+M0301,Store_100,Melbourne,VCT,89634,5411,Retail Store
+M0287,Store_101,Darwin,NT,36921,5732,Electronics Store
+M0696,Store_102,Canberra,ACT,60382,5411,Retail Store
+M0233,Store_103,Melbourne,VCT,13655,5814,Restaurant/Food
+M0298,Store_104,Adelaide,SA,59401,5814,Restaurant/Food
+M0087,Store_105,Darwin,NT,94072,5411,Retail Store
+M0075,Store_106,Canberra,ACT,90487,5814,Restaurant/Food
+M0053,Store_107,Brisbane,QLD,31832,5814,Restaurant/Food
+M0112,Store_108,Brisbane,QLD,78457,5814,Restaurant/Food
+M0182,Store_109,Darwin,NT,90296,5411,Retail Store
+M0299,Store_110,Adelaide,SA,78395,5999,Miscellaneous Retail
+M0147,Store_111,Canberra,ACT,31830,6011,Financial Institution
+M0423,Store_112,Adelaide,SA,54284,5999,Miscellaneous Retail
+M0405,Store_113,Sydney,NSW,78137,6011,Financial Institution
+M0431,Store_114,Brisbane,QLD,40832,5411,Retail Store
+M0496,Store_115,Melbourne,VCT,14920,5814,Restaurant/Food
+M0059,Store_116,Adelaide,SA,46203,5411,Retail Store
+M0297,Store_117,Sydney,NSW,11198,5814,Restaurant/Food
+M0126,Store_118,Perth,WA,95377,5411,Retail Store
+M0290,Store_119,Perth,WA,76536,5732,Electronics Store
+M0044,Store_120,Adelaide,SA,53766,5814,Restaurant/Food
+M0249,Store_121,Sydney,NSW,39501,5814,Restaurant/Food
+M0590,Store_122,Adelaide,SA,70006,5411,Retail Store
+M0134,Store_123,Sydney,NSW,36802,5814,Restaurant/Food
+M0594,Store_124,Brisbane,QLD,42736,5814,Restaurant/Food
+M0125,Store_125,Canberra,ACT,61566,5814,Restaurant/Food
+M0256,Store_126,Sydney,NSW,99905,5814,Restaurant/Food
+M0327,Store_127,Sydney,NSW,32446,5411,Retail Store
+M0312,Store_128,Brisbane,QLD,26687,5814,Restaurant/Food
+M0665,Store_129,Brisbane,QLD,88777,5814,Restaurant/Food
+M0467,Store_130,Melbourne,VCT,30825,5732,Electronics Store
+M0116,Store_131,Melbourne,VCT,41348,5411,Retail Store
+M0607,Store_132,Canberra,ACT,27977,5411,Retail Store
+M0563,Store_133,Sydney,NSW,52978,5814,Restaurant/Food
+M0442,Store_134,Brisbane,QLD,10133,5411,Retail Store
+M0247,Store_135,Darwin,NT,33515,5411,Retail Store
+M0600,Store_136,Canberra,ACT,38833,4111,Transportation
+M0432,Store_137,Brisbane,QLD,78469,5411,Retail Store
+M0669,Store_138,Darwin,NT,62318,5814,Restaurant/Food
+M0692,Store_139,Canberra,ACT,52163,5732,Electronics Store
+M0117,Store_140,Sydney,NSW,90894,5411,Retail Store
+M0043,Store_141,Brisbane,QLD,40886,5999,Miscellaneous Retail
+M0425,Store_142,Sydney,NSW,24720,5814,Restaurant/Food
+M0284,Store_143_ALT,Melbourne,VCT,27489,4111,Transportation
+M0002,Store_144,Darwin,NT,95499,5814,Restaurant/Food
+M0310,Store_145,Darwin,NT,93623,5999,Miscellaneous Retail
+M0144,Store_146,Sydney,NSW,29270,5411,Retail Store
+M0038,Store_147,Canberra,ACT,36363,5411,Retail Store
+M0556,Store_148,Brisbane,QLD,82338,4111,Transportation
+M0337,Store_149,Perth,WA,75540,5999,Miscellaneous Retail
+M0273,Store_150,Perth,WA,29226,5814,Restaurant/Food
+M0603,Store_151,Melbourne,VCT,28828,5732,Electronics Store
+M0004,Store_152,Canberra,ACT,91838,5732,Electronics Store
+M0381,Store_153,Melbourne,VCT,76906,5999,Miscellaneous Retail
+M0307,Store_154,Sydney,NSW,50194,5411,Retail Store
+M0676,Store_155,Melbourne,VCT,85694,5411,Retail Store
+M0485,Store_156,Darwin,NT,98971,5411,Retail Store
+M0120,Store_157,Canberra,ACT,65886,6011,Financial Institution
+M0445,Store_158,Darwin,NT,14864,5814,Restaurant/Food
+M0400,Store_159,Brisbane,QLD,62779,5814,Restaurant/Food
+M0178,Store_160,Adelaide,SA,86332,5411,Retail Store
+M0200,Store_161,Perth,WA,36441,5814,Restaurant/Food
+M0322,Store_162,Canberra,ACT,26264,5814,Restaurant/Food
+M0505,Store_163,Sydney,NSW,60872,5814,Restaurant/Food
+M0605,Store_164,Adelaide,SA,65081,5999,Miscellaneous Retail
+M0546,Store_165,Adelaide,SA,58761,5732,Electronics Store
+M0100,Store_166,Melbourne,VCT,42748,5411,Retail Store
+M0124,Store_167,Brisbane,QLD,63828,5814,Restaurant/Food
+M0519,Store_168,Melbourne,VCT,66065,5411,Retail Store
+M0407,Store_169,Brisbane,QLD,62776,5999,Miscellaneous Retail
+M0193,Store_170,Canberra,ACT,86773,5411,Retail Store
+M0101,Store_171,Brisbane,QLD,92625,5999,Miscellaneous Retail
+M0108,Store_172,Perth,WA,23495,5999,Miscellaneous Retail
+M0146,Store_173,Melbourne,VCT,56529,5814,Restaurant/Food
+M0378,Store_174,Canberra,ACT,93710,5999,Miscellaneous Retail
+M0028,Store_175,Melbourne,VCT,57312,5411,Retail Store
+M0079,Store_176,Brisbane,QLD,47441,5411,Retail Store
+M0641,Store_177,Sydney,NSW,47636,5814,Restaurant/Food
+M0418,Store_178,Brisbane,QLD,30774,6011,Financial Institution
+M0196,Store_179,Darwin,NT,31451,5732,Electronics Store
+M0532,Store_180,Darwin,NT,90269,5999,Miscellaneous Retail
+M0326,Store_181,Adelaide,SA,55633,6011,Financial Institution
+M0372,Store_182,Brisbane,QLD,73535,4111,Transportation
+M0371,Store_183,Sydney,NSW,27105,4111,Transportation
+M0169,Store_184,Canberra,ACT,45593,5411,Retail Store
+M0277,Store_185,Adelaide,SA,40302,5411,Retail Store
+M0104,Store_186,Melbourne,VCT,70828,5411,Retail Store
+M0684,Store_187,Canberra,ACT,53786,5999,Miscellaneous Retail
+M0164,Store_188,Adelaide,SA,37814,5411,Retail Store
+M0018,Store_189,Brisbane,QLD,62884,5411,Retail Store
+M0265,Store_190,Melbourne,VCT,35142,5999,Miscellaneous Retail
+M0469,Store_191,Adelaide,SA,74253,4111,Transportation
+M0375,Store_192,Perth,WA,27832,5411,Retail Store
+M0588,Store_193,Melbourne,VCT,22015,6011,Financial Institution
+M0344,Store_194,Melbourne,VCT,77979,5814,Restaurant/Food
+M0698,Store_195,Darwin,NT,62709,5814,Restaurant/Food
+M0589,Store_196,Darwin,NT,31323,5732,Electronics Store
+M0419,Store_197,Canberra,ACT,58249,4111,Transportation
+M0511,Store_198,Perth,WA,14223,5999,Miscellaneous Retail
+M0218,Store_199,Perth,WA,68798,5814,Restaurant/Food
+M0562,Store_200,Adelaide,SA,43943,6011,Financial Institution
+M0364,Store_201,Adelaide,SA,49739,5732,Electronics Store
+M0380,Store_202,Brisbane,QLD,50960,6011,Financial Institution
+M0309,Store_203,Perth,WA,80828,5732,Electronics Store
+M0251,Store_204,Sydney,NSW,24564,5411,Retail Store
+M0151,Store_205,Darwin,NT,50003,5732,Electronics Store
+M0139,Store_206,Sydney,NSW,66658,5411,Retail Store
+M0007,Store_207,Darwin,NT,83093,5411,Retail Store
+M0640,Store_208,Adelaide,SA,50288,5411,Retail Store
+M0176,Store_209,Sydney,NSW,24675,5814,Restaurant/Food
+M0051,Store_210,Perth,WA,99017,5411,Retail Store
+M0647,Store_211,Melbourne,VCT,92167,5814,Restaurant/Food
+M0533,Store_212,Brisbane,QLD,17911,5814,Restaurant/Food
+M0023,Store_213,Darwin,NT,84534,5411,Retail Store
+M0475,Store_214,Adelaide,SA,37767,5814,Restaurant/Food
+M0015,Store_215,Melbourne,VCT,54335,5732,Electronics Store
+M0185,Store_216,Perth,WA,37932,5732,Electronics Store
+M0685,Store_217,Canberra,ACT,89961,6011,Financial Institution
+M0349,Store_218,Perth,WA,79731,5411,Retail Store
+M0528,Store_219,Melbourne,VCT,28683,4111,Transportation
+M0350,Store_220,Melbourne,VCT,80979,6011,Financial Institution
+M0700,Store_221,Sydney,NSW,51843,5814,Restaurant/Food
+M0149,Store_222,Canberra,ACT,81612,5411,Retail Store
+M0386,Store_223,Melbourne,VCT,43370,5814,Restaurant/Food
+M0654,Store_224,Melbourne,VCT,64262,5411,Retail Store
+M0548,Store_225,Sydney,NSW,44182,5814,Restaurant/Food
+M0242,Store_226,Darwin,NT,82721,6011,Financial Institution
+M0324,Store_227,Brisbane,QLD,56846,4111,Transportation
+M0235,Store_228,Darwin,NT,49562,5411,Retail Store
+M0450,Store_229,Darwin,NT,91927,5814,Restaurant/Food
+M0518,Store_230,Brisbane,QLD,37884,4111,Transportation
+M0039,Store_231,Sydney,NSW,63983,5411,Retail Store
+M0402,Store_232,Canberra,ACT,70394,5814,Restaurant/Food
+M0159,Store_233,Perth,WA,65307,5411,Retail Store
+M0446,Store_234,Canberra,ACT,98121,5732,Electronics Store
+M0389,Store_235,Darwin,NT,58783,6011,Financial Institution
+M0065,Store_236,Darwin,NT,47161,5411,Retail Store
+M0181,Store_237,Perth,WA,34931,5999,Miscellaneous Retail
+M0208,Store_238,Sydney,NSW,46499,5814,Restaurant/Food
+M0010,Store_239,Darwin,NT,28705,5411,Retail Store
+M0686,Store_240,Darwin,NT,87561,5732,Electronics Store
+M0539,Store_241,Darwin,NT,58634,5732,Electronics Store
+M0564,Store_242,Canberra,ACT,96704,4111,Transportation
+M0271,Store_243,Perth,WA,80282,5411,Retail Store
+M0291,Store_244,Sydney,NSW,55065,5999,Miscellaneous Retail
+M0090,Store_245,Brisbane,QLD,29046,5411,Retail Store
+M0367,Store_246,Brisbane,QLD,76669,5814,Restaurant/Food
+M0652,Store_247,Adelaide,SA,64093,5814,Restaurant/Food
+M0377,Store_248,Darwin,NT,21938,5732,Electronics Store
+M0554,Store_249,Adelaide,SA,91951,5411,Retail Store
+M0440,Store_250,Sydney,NSW,94911,5732,Electronics Store
+M0362,Store_251,Melbourne,VCT,69620,4111,Transportation
+M0412,Store_252,Brisbane,QLD,27038,5411,Retail Store
+M0580,Store_253,Sydney,NSW,12665,5814,Restaurant/Food
+M0017,Store_254,Canberra,ACT,41127,5814,Restaurant/Food
+M0613,Store_255,Melbourne,VCT,87827,5411,Retail Store
+M0659,Store_256,Sydney,NSW,53718,5814,Restaurant/Food
+M0559,Store_257,Canberra,ACT,99959,5814,Restaurant/Food
+M0030,Store_258,Melbourne,VCT,35419,6011,Financial Institution
+M0105,Store_259,Adelaide,SA,44959,6011,Financial Institution
+M0678,Store_260,Melbourne,VCT,35096,5732,Electronics Store
+M0288,Store_261,Adelaide,SA,11367,6011,Financial Institution
+M0338,Store_262,Perth,WA,14965,5411,Retail Store
+M0690,Store_263,Adelaide,SA,81355,5814,Restaurant/Food
+M0321,Store_264,Adelaide,SA,12834,5411,Retail Store
+M0653,Store_265,Melbourne,VCT,13561,5411,Retail Store
+M0252,Store_266,Adelaide,SA,64972,5411,Retail Store
+M0488,Store_267,Perth,WA,75787,5814,Restaurant/Food
+M0489,Store_268,Canberra,ACT,25195,5999,Miscellaneous Retail
+M0340,Store_269,Brisbane,QLD,82131,6011,Financial Institution
+M0368,Store_270,Sydney,NSW,24393,5411,Retail Store
+M0570,Store_271,Adelaide,SA,26326,5814,Restaurant/Food
+M0513,Store_272,Sydney,NSW,83347,5814,Restaurant/Food
+M0238,Store_273_ALT,Adelaide,SA,69463,5814,Restaurant/Food
+M0461,Store_274,Brisbane,QLD,11524,5814,Restaurant/Food
+M0473,Store_275,Brisbane,QLD,26794,5814,Restaurant/Food
+M0433,Store_276,Sydney,NSW,23589,5814,Restaurant/Food
+M0209,Store_277,Darwin,NT,39317,5411,Retail Store
+M0598,Store_278,Brisbane,QLD,26647,6011,Financial Institution
+M0184,Store_279,Brisbane,QLD,69402,5411,Retail Store
+M0157,Store_280,Sydney,NSW,67295,5999,Miscellaneous Retail
+M0460,Store_281,Canberra,ACT,14539,5814,Restaurant/Food
+M0428,Store_282,Brisbane,QLD,78876,6011,Financial Institution
+M0109,Store_283,Canberra,ACT,61757,6011,Financial Institution
+M0416,Store_284,Melbourne,VCT,98859,4111,Transportation
+M0128,Store_285,Sydney,NSW,92899,5411,Retail Store
+M0531,Store_286,Adelaide,SA,91157,5411,Retail Store
+M0499,Store_287,Adelaide,SA,78334,5732,Electronics Store
+M0582,Store_288,Brisbane,QLD,88826,6011,Financial Institution
+M0683,Store_289,Brisbane,QLD,10949,5411,Retail Store
+M0230,Store_290,Melbourne,VCT,15549,6011,Financial Institution
+M0057,Store_291,Brisbane,QLD,70693,5732,Electronics Store
+M0040,Store_292,Sydney,NSW,21271,5814,Restaurant/Food
+M0077,Store_293,Perth,WA,96542,5411,Retail Store
+M0214,Store_294,Melbourne,VCT,81110,6011,Financial Institution
+M0358,Store_295,Perth,WA,70104,6011,Financial Institution
+M0465,Store_296,Melbourne,VCT,76278,5814,Restaurant/Food
+M0003,Store_297,Brisbane,QLD,13031,5814,Restaurant/Food
+M0618,Store_298,Brisbane,QLD,67662,5411,Retail Store
+M0197,Store_299,Perth,WA,57863,6011,Financial Institution
+M0693,Store_300,Perth,WA,69770,6011,Financial Institution
+M0123,Store_301,Perth,WA,95003,5411,Retail Store
+M0677,Store_302,Melbourne,VCT,13261,5814,Restaurant/Food
+M0632,Store_303,Brisbane,QLD,45844,6011,Financial Institution
+M0601,Store_304,Perth,WA,50397,5411,Retail Store
+M0390,Store_305,Perth,WA,77243,5814,Restaurant/Food
+M0168,Store_306_ALT,Melbourne,VCT,10700,5814,Restaurant/Food
+M0335,Store_307,Adelaide,SA,29066,4111,Transportation
+M0691,Store_308,Sydney,NSW,40434,5411,Retail Store
+M0286,Store_309,Canberra,ACT,53207,4111,Transportation
+M0258,Store_310,Adelaide,SA,92296,5411,Retail Store
+M0572,Store_311,Brisbane,QLD,29831,5411,Retail Store
+M0497,Store_312,Adelaide,SA,34628,5732,Electronics Store
+M0081,Store_313,Brisbane,QLD,97740,5411,Retail Store
+M0596,Store_314,Melbourne,VCT,76973,5999,Miscellaneous Retail
+M0316,Store_315,Canberra,ACT,14191,6011,Financial Institution
+M0694,Store_316,Melbourne,VCT,89275,5999,Miscellaneous Retail
+M0616,Store_317_ALT,Sydney,NSW,66029,5814,Restaurant/Food
+M0555,Store_318,Adelaide,SA,17691,5411,Retail Store
+M0585,Store_319,Darwin,NT,91097,5814,Restaurant/Food
+M0259,Store_320,Perth,WA,33051,5814,Restaurant/Food
+M0481,Store_321,Brisbane,QLD,14901,5999,Miscellaneous Retail
+M0679,Store_322,Sydney,NSW,78048,6011,Financial Institution
+M0192,Store_323,Adelaide,SA,67781,5411,Retail Store
+M0078,Store_324,Darwin,NT,15038,5411,Retail Store
+M0411,Store_325,Melbourne,VCT,39259,5411,Retail Store
+M0330,Store_326,Melbourne,VCT,17644,5411,Retail Store
+M0670,Store_327,Perth,WA,35377,5814,Restaurant/Food
+M0024,Store_328,Melbourne,VCT,31701,5814,Restaurant/Food
+M0135,Store_329,Melbourne,VCT,90779,5999,Miscellaneous Retail
+M0076,Store_330,Perth,WA,75453,4111,Transportation
+M0063,Store_331,Darwin,NT,36677,4111,Transportation
+M0158,Store_332,Darwin,NT,11415,5814,Restaurant/Food
+M0516,Store_333,Melbourne,VCT,12092,5814,Restaurant/Food
+M0020,Store_334,Melbourne,VCT,77820,4111,Transportation
+M0058,Store_335,Melbourne,VCT,82159,5814,Restaurant/Food
+M0421,Store_336,Adelaide,SA,63984,5411,Retail Store
+M0611,Store_337,Adelaide,SA,75386,5814,Restaurant/Food
+M0525,Store_338,Canberra,ACT,80187,6011,Financial Institution
+M0619,Store_339,Sydney,NSW,94644,5814,Restaurant/Food
+M0331,Store_340,Canberra,ACT,81286,5814,Restaurant/Food
+M0293,Store_341,Adelaide,SA,27565,5411,Retail Store
+M0127,Store_342,Melbourne,VCT,97887,5814,Restaurant/Food
+M0142,Store_343,Sydney,NSW,27977,5411,Retail Store
+M0543,Store_344,Sydney,NSW,22302,6011,Financial Institution
+M0285,Store_345,Canberra,ACT,75095,6011,Financial Institution
+M0486,Store_346_ALT,Adelaide,SA,52437,6011,Financial Institution
+M0537,Store_347,Canberra,ACT,81845,5732,Electronics Store
+M0662,Store_348,Melbourne,VCT,87105,5814,Restaurant/Food
+M0385,Store_349_ALT,Brisbane,QLD,12227,4111,Transportation
+M0520,Store_350,Darwin,NT,55548,4111,Transportation
+M0393,Store_351,Melbourne,VCT,88855,5814,Restaurant/Food
+M0437,Store_352,Adelaide,SA,49339,5814,Restaurant/Food
+M0540,Store_353,Adelaide,SA,49173,5411,Retail Store
+M0206,Store_354,Melbourne,VCT,24453,5411,Retail Store
+M0466,Store_355,Adelaide,SA,42603,5411,Retail Store
+M0361,Store_356,Darwin,NT,51468,5411,Retail Store
+M0032,Store_357_ALT,Sydney,NSW,96717,4111,Transportation
+M0523,Store_358,Brisbane,QLD,22969,4111,Transportation
+M0311,Store_359,Darwin,NT,10732,5411,Retail Store
+M0536,Store_360,Sydney,NSW,69581,5814,Restaurant/Food
+M0069,Store_361,Melbourne,VCT,14798,5814,Restaurant/Food
+M0574,Store_362,Canberra,ACT,71400,5411,Retail Store
+M0094,Store_363,Adelaide,SA,96674,5411,Retail Store
+M0586,Store_364,Sydney,NSW,11329,5411,Retail Store
+M0454,Store_365,Perth,WA,96539,5814,Restaurant/Food
+M0211,Store_366,Brisbane,QLD,32515,5814,Restaurant/Food
+M0621,Store_367,Darwin,NT,92672,5814,Restaurant/Food
+M0492,Store_368,Adelaide,SA,95847,5814,Restaurant/Food
+M0261,Store_369,Sydney,NSW,98145,5814,Restaurant/Food
+M0236,Store_370,Adelaide,SA,97053,5411,Retail Store
+M0005,Store_371,Adelaide,SA,21837,5814,Restaurant/Food
+M0300,Store_372,Adelaide,SA,57567,5814,Restaurant/Food
+M0133,Store_373,Adelaide,SA,14218,5999,Miscellaneous Retail
+M0333,Store_374,Sydney,NSW,66897,5814,Restaurant/Food
+M0612,Store_375,Melbourne,VCT,25938,5814,Restaurant/Food
+M0650,Store_376,Adelaide,SA,41774,5732,Electronics Store
+M0092,Store_377,Sydney,NSW,21427,5732,Electronics Store
+M0254,Store_378,Adelaide,SA,33993,5732,Electronics Store
+M0544,Store_379,Darwin,NT,51278,5732,Electronics Store
+M0663,Store_380,Canberra,ACT,22367,5411,Retail Store
+M0566,Store_381,Brisbane,QLD,70540,5814,Restaurant/Food
+M0035,Store_382,Perth,WA,61207,5732,Electronics Store
+M0382,Store_383,Melbourne,VCT,46109,5411,Retail Store
+M0404,Store_384,Darwin,NT,42189,5999,Miscellaneous Retail
+M0568,Store_385,Canberra,ACT,45553,5411,Retail Store
+M0581,Store_386,Canberra,ACT,36219,5814,Restaurant/Food
+M0675,Store_387,Adelaide,SA,54256,5411,Retail Store
+M0370,Store_388,Perth,WA,59054,5411,Retail Store
+M0545,Store_389,Canberra,ACT,19366,5814,Restaurant/Food
+M0512,Store_390,Brisbane,QLD,98887,5411,Retail Store
+M0444,Store_391,Adelaide,SA,77134,5814,Restaurant/Food
+M0427,Store_392,Perth,WA,20923,5814,Restaurant/Food
+M0455,Store_393,Melbourne,VCT,31561,5999,Miscellaneous Retail
+M0033,Store_394,Canberra,ACT,99585,6011,Financial Institution
+M0317,Store_395,Melbourne,VCT,87303,6011,Financial Institution
+M0627,Store_396,Adelaide,SA,97264,5411,Retail Store
+M0342,Store_397,Brisbane,QLD,11373,5814,Restaurant/Food
+M0560,Store_398,Sydney,NSW,11975,5999,Miscellaneous Retail
+M0025,Store_399,Perth,WA,83775,5411,Retail Store
+M0061,Store_400,Brisbane,QLD,69212,5732,Electronics Store
+M0329,Store_401,Perth,WA,31154,5814,Restaurant/Food
+M0614,Store_402,Perth,WA,29483,5814,Restaurant/Food
+M0689,Store_403,Darwin,NT,92419,5411,Retail Store
+M0359,Store_404,Sydney,NSW,48381,5411,Retail Store
+M0295,Store_405,Darwin,NT,84514,4111,Transportation
+M0162,Store_406,Perth,WA,24296,6011,Financial Institution
+M0439,Store_407,Brisbane,QLD,78194,6011,Financial Institution
+M0575,Store_408,Perth,WA,10433,5814,Restaurant/Food
+M0041,Store_409,Darwin,NT,32508,5732,Electronics Store
+M0130,Store_410,Melbourne,VCT,81204,4111,Transportation
+M0093,Store_411,Darwin,NT,72620,5814,Restaurant/Food
+M0576,Store_412,Perth,WA,78921,5999,Miscellaneous Retail
+M0054,Store_413,Brisbane,QLD,17603,6011,Financial Institution
+M0179,Store_414,Melbourne,VCT,14022,5411,Retail Store
+M0522,Store_415,Darwin,NT,83189,5814,Restaurant/Food
+M0332,Store_416,Adelaide,SA,78389,5411,Retail Store
+M0664,Store_417,Sydney,NSW,69702,5411,Retail Store
+M0264,Store_418,Adelaide,SA,40009,5814,Restaurant/Food
+M0682,Store_419,Canberra,ACT,93015,5732,Electronics Store
+M0500,Store_420,Melbourne,VCT,51444,5814,Restaurant/Food
+M0175,Store_421,Melbourne,VCT,85681,5411,Retail Store
+M0392,Store_422,Sydney,NSW,81770,5999,Miscellaneous Retail
+M0502,Store_423,Brisbane,QLD,50823,5411,Retail Store
+M0171,Store_424,Canberra,ACT,91189,5411,Retail Store
+M0468,Store_425,Sydney,NSW,64381,5999,Miscellaneous Retail
+M0269,Store_426,Melbourne,VCT,81678,6011,Financial Institution
+M0643,Store_427,Melbourne,VCT,36050,5814,Restaurant/Food
+M0443,Store_428,Melbourne,VCT,92945,6011,Financial Institution
+M0360,Store_429,Sydney,NSW,79398,5999,Miscellaneous Retail
+M0303,Store_430,Adelaide,SA,24457,6011,Financial Institution
+M0198,Store_431,Sydney,NSW,31769,5411,Retail Store
+M0050,Store_432,Sydney,NSW,84840,6011,Financial Institution
+M0408,Store_433,Darwin,NT,87681,6011,Financial Institution
+M0141,Store_434,Melbourne,VCT,19475,5732,Electronics Store
+M0180,Store_435,Sydney,NSW,14450,5732,Electronics Store
+M0541,Store_436,Brisbane,QLD,59674,5814,Restaurant/Food
+M0072,Store_437,Sydney,NSW,21980,5411,Retail Store
+M0215,Store_438,Perth,WA,41888,5732,Electronics Store
+M0638,Store_439,Darwin,NT,27900,5411,Retail Store
+M0578,Store_440,Perth,WA,45229,5814,Restaurant/Food
+M0008,Store_441_ALT,Darwin,NT,93299,5999,Miscellaneous Retail
+M0660,Store_442,Perth,WA,77682,5814,Restaurant/Food
+M0083,Store_443,Sydney,NSW,19799,5814,Restaurant/Food
+M0165,Store_444,Brisbane,QLD,42217,5814,Restaurant/Food
+M0250,Store_445,Perth,WA,51699,4111,Transportation
+M0319,Store_446,Sydney,NSW,93596,5814,Restaurant/Food
+M0152,Store_447,Melbourne,VCT,62010,5411,Retail Store
+M0474,Store_448,Melbourne,VCT,23414,5814,Restaurant/Food
+M0549,Store_449,Adelaide,SA,25425,5814,Restaurant/Food
+M0262,Store_450,Adelaide,SA,15180,5411,Retail Store
+M0551,Store_451,Brisbane,QLD,67145,5411,Retail Store
+M0279,Store_452,Darwin,NT,16000,5732,Electronics Store
+M0436,Store_453,Melbourne,VCT,39261,5411,Retail Store
+M0132,Store_454,Brisbane,QLD,59524,6011,Financial Institution
+M0308,Store_455,Brisbane,QLD,27026,5411,Retail Store
+M0625,Store_456,Melbourne,VCT,36148,5814,Restaurant/Food
+M0187,Store_457,Darwin,NT,71591,5411,Retail Store
+M0320,Store_458,Darwin,NT,73822,5732,Electronics Store
+M0103,Store_459,Sydney,NSW,95008,5814,Restaurant/Food
+M0557,Store_460,Perth,WA,40864,5814,Restaurant/Food
+M0137,Store_461_ALT,Sydney,NSW,96530,4111,Transportation
+M0453,Store_462,Perth,WA,96637,4111,Transportation
+M0066,Store_463,Sydney,NSW,77140,4111,Transportation
+M0606,Store_464,Sydney,NSW,72608,4111,Transportation
+M0529,Store_465,Perth,WA,74906,5732,Electronics Store
+M0202,Store_466,Brisbane,QLD,51363,6011,Financial Institution
+M0201,Store_467,Darwin,NT,81435,5814,Restaurant/Food
+M0266,Store_468,Darwin,NT,69713,5814,Restaurant/Food
+M0484,Store_469,Brisbane,QLD,59065,5411,Retail Store
+M0302,Store_470,Darwin,NT,48271,5814,Restaurant/Food
+M0071,Store_471,Canberra,ACT,59787,4111,Transportation
+M0241,Store_472,Perth,WA,32230,4111,Transportation
+M0314,Store_473,Brisbane,QLD,25132,5814,Restaurant/Food
+M0384,Store_474,Darwin,NT,82802,5999,Miscellaneous Retail
+M0622,Store_475,Melbourne,VCT,80573,5732,Electronics Store
+M0243,Store_476,Adelaide,SA,94669,5732,Electronics Store
+M0113,Store_477,Perth,WA,56772,5999,Miscellaneous Retail
+M0699,Store_478,Brisbane,QLD,62541,5814,Restaurant/Food
+M0155,Store_479,Sydney,NSW,85868,5411,Retail Store
+M0535,Store_480,Brisbane,QLD,21000,5411,Retail Store
+M0068,Store_481,Perth,WA,17132,5814,Restaurant/Food
+M0630,Store_482,Canberra,ACT,66675,5411,Retail Store
+M0294,Store_483,Sydney,NSW,85225,4111,Transportation
+M0608,Store_484,Melbourne,VCT,90833,5411,Retail Store
+M0584,Store_485,Sydney,NSW,79900,4111,Transportation
+M0060,Store_486,Melbourne,VCT,66382,5814,Restaurant/Food
+M0470,Store_487,Perth,WA,67516,5411,Retail Store
+M0034,Store_488,Brisbane,QLD,64118,5814,Restaurant/Food
+M0595,Store_489,Canberra,ACT,70114,5814,Restaurant/Food
+M0657,Store_490,Sydney,NSW,42345,5411,Retail Store
+M0027,Store_491,Adelaide,SA,39470,5411,Retail Store
+M0458,Store_492,Perth,WA,90591,5814,Restaurant/Food
+M0626,Store_493,Adelaide,SA,28866,6011,Financial Institution
+M0476,Store_494,Brisbane,QLD,30019,5411,Retail Store
+M0226,Store_495,Adelaide,SA,21461,5814,Restaurant/Food
+M0398,Store_496,Darwin,NT,30475,5411,Retail Store
+M0150,Store_497,Canberra,ACT,97315,5814,Restaurant/Food
+M0234,Store_498,Brisbane,QLD,61678,5411,Retail Store
+M0280,Store_499,Canberra,ACT,69289,5411,Retail Store
+M0383,Store_500,Canberra,ACT,77537,5814,Restaurant/Food
+M0056,Store_501,Melbourne,VCT,30780,5814,Restaurant/Food
+M0553,Store_502,Adelaide,SA,63668,5814,Restaurant/Food
+M0396,Store_503,Melbourne,VCT,87750,5411,Retail Store
+M0604,Store_504,Brisbane,QLD,94783,5411,Retail Store
+M0070,Store_505,Perth,WA,83732,5999,Miscellaneous Retail
+M0257,Store_506,Darwin,NT,85726,5814,Restaurant/Food
+M0639,Store_507,Canberra,ACT,11755,5411,Retail Store
+M0278,Store_508,Adelaide,SA,91080,6011,Financial Institution
+M0097,Store_509,Brisbane,QLD,95000,5814,Restaurant/Food
+M0629,Store_510_ALT,Canberra,ACT,78982,5814,Restaurant/Food
+M0091,Store_511,Canberra,ACT,63057,6011,Financial Institution
+M0306,Store_512,Melbourne,VCT,62003,5814,Restaurant/Food
+M0085,Store_513,Perth,WA,83930,5814,Restaurant/Food
+M0049,Store_514,Adelaide,SA,78705,5411,Retail Store
+M0114,Store_515,Perth,WA,36076,5732,Electronics Store
+M0067,Store_516,Canberra,ACT,69186,5411,Retail Store
+M0274,Store_517,Canberra,ACT,23724,5411,Retail Store
+M0413,Store_518_ALT,Brisbane,QLD,73683,5999,Miscellaneous Retail
+M0456,Store_519,Perth,WA,75041,5411,Retail Store
+M0131,Store_520,Canberra,ACT,36683,5732,Electronics Store
+M0434,Store_521,Canberra,ACT,32059,5999,Miscellaneous Retail
+M0289,Store_522,Canberra,ACT,76693,5411,Retail Store
+M0448,Store_523,Brisbane,QLD,53265,5814,Restaurant/Food
+M0022,Store_524,Melbourne,VCT,54482,5411,Retail Store
+M0369,Store_525,Canberra,ACT,89122,6011,Financial Institution
+M0597,Store_526,Adelaide,SA,48895,5814,Restaurant/Food
+M0073,Store_527,Adelaide,SA,63187,5411,Retail Store
+M0121,Store_528,Canberra,ACT,87127,5814,Restaurant/Food
+M0645,Store_529,Adelaide,SA,58823,6011,Financial Institution
+M0524,Store_530,Brisbane,QLD,69595,5411,Retail Store
+M0210,Store_531,Canberra,ACT,27570,5999,Miscellaneous Retail
+M0207,Store_532,Adelaide,SA,46689,4111,Transportation
+M0244,Store_533,Canberra,ACT,80459,5999,Miscellaneous Retail
+M0341,Store_534,Canberra,ACT,94291,5411,Retail Store
+M0276,Store_535,Melbourne,VCT,55928,6011,Financial Institution
+M0172,Store_536,Adelaide,SA,27240,5999,Miscellaneous Retail
+M0292,Store_537,Perth,WA,69617,4111,Transportation
+M0006,Store_538,Darwin,NT,79742,5411,Retail Store
+M0019,Store_539,Canberra,ACT,13902,5411,Retail Store
+M0565,Store_540,Perth,WA,32257,6011,Financial Institution
+M0459,Store_541,Adelaide,SA,23932,5999,Miscellaneous Retail
+M0388,Store_542,Adelaide,SA,40464,5814,Restaurant/Food
+M0655,Store_543,Canberra,ACT,16548,5732,Electronics Store
+M0080,Store_544,Perth,WA,64641,6011,Financial Institution
+M0410,Store_545,Darwin,NT,18184,5411,Retail Store
+M0634,Store_546,Adelaide,SA,52123,5732,Electronics Store
+M0282,Store_547,Canberra,ACT,60708,5999,Miscellaneous Retail
+M0154,Store_548,Perth,WA,83815,6011,Financial Institution
+M0482,Store_549,Sydney,NSW,27800,5411,Retail Store
+M0084,Store_550,Sydney,NSW,25554,5814,Restaurant/Food
+M0666,Store_551,Darwin,NT,47090,5411,Retail Store
+M0283,Store_552,Canberra,ACT,87984,5814,Restaurant/Food
+M0452,Store_553,Sydney,NSW,71405,5814,Restaurant/Food
+M0593,Store_554,Melbourne,VCT,90641,5814,Restaurant/Food
+M0107,Store_555,Brisbane,QLD,64656,5411,Retail Store
+M0272,Store_556,Adelaide,SA,53762,5411,Retail Store
+M0394,Store_557,Brisbane,QLD,93340,5814,Restaurant/Food
+M0253,Store_558,Brisbane,QLD,40533,5732,Electronics Store
+M0424,Store_559,Canberra,ACT,35798,5814,Restaurant/Food
+M0263,Store_560,Perth,WA,52614,5411,Retail Store
+M0088,Store_561,Brisbane,QLD,33022,5411,Retail Store
+M0296,Store_562,Darwin,NT,35546,5814,Restaurant/Food
+M0527,Store_563,Darwin,NT,63402,5411,Retail Store
+M0471,Store_564_ALT,Canberra,ACT,66855,5732,Electronics Store
+M0526,Store_565,Adelaide,SA,97278,5411,Retail Store
+M0620,Store_566,Brisbane,QLD,12997,5814,Restaurant/Food
+M0379,Store_567,Sydney,NSW,22528,4111,Transportation
+M0494,Store_568,Sydney,NSW,70253,5411,Retail Store
+M0110,Store_569,Darwin,NT,35098,6011,Financial Institution
+M0224,Store_570,Brisbane,QLD,60476,5814,Restaurant/Food
+M0636,Store_571,Darwin,NT,58295,5999,Miscellaneous Retail
+M0195,Store_572,Perth,WA,20850,5814,Restaurant/Food
+M0248,Store_573,Sydney,NSW,71469,5999,Miscellaneous Retail
+M0174,Store_574,Melbourne,VCT,77395,5999,Miscellaneous Retail
+M0365,Store_575,Perth,WA,78275,5814,Restaurant/Food
+M0170,Store_576,Adelaide,SA,65011,5814,Restaurant/Food
+M0667,Store_577,Melbourne,VCT,69211,5999,Miscellaneous Retail
+M0449,Store_578,Adelaide,SA,50511,4111,Transportation
+M0313,Store_579,Perth,WA,85641,5411,Retail Store
+M0571,Store_580,Brisbane,QLD,42419,5814,Restaurant/Food
+M0501,Store_581,Sydney,NSW,59630,5814,Restaurant/Food
+M0514,Store_582,Perth,WA,98901,5411,Retail Store
+M0587,Store_583,Canberra,ACT,39737,5814,Restaurant/Food
+M0661,Store_584,Adelaide,SA,60568,5814,Restaurant/Food
+M0687,Store_585,Adelaide,SA,70268,6011,Financial Institution
+M0148,Store_586,Melbourne,VCT,93400,5814,Restaurant/Food
+M0567,Store_587_ALT,Sydney,NSW,14723,5814,Restaurant/Food
+M0064,Store_588,Darwin,NT,55652,5732,Electronics Store
+M0183,Store_589,Perth,WA,22784,4111,Transportation
+M0617,Store_590,Darwin,NT,52305,5814,Restaurant/Food
+M0014,Store_591,Brisbane,QLD,48667,6011,Financial Institution
+M0561,Store_592,Perth,WA,42815,5411,Retail Store
+M0542,Store_593,Darwin,NT,85217,5411,Retail Store
+M0649,Store_594,Darwin,NT,91378,5411,Retail Store
+M0334,Store_595,Sydney,NSW,21277,5814,Restaurant/Food
+M0550,Store_596_ALT,Melbourne,VCT,60712,5411,Retail Store
+M0615,Store_597,Melbourne,VCT,11436,5411,Retail Store
+M0304,Store_598,Adelaide,SA,91252,4111,Transportation
+M0347,Store_599,Sydney,NSW,59707,6011,Financial Institution
+M0095,Store_600,Darwin,NT,54530,5411,Retail Store
+M0391,Store_601,Sydney,NSW,64479,5999,Miscellaneous Retail
+M0633,Store_602,Adelaide,SA,53133,5411,Retail Store
+M0021,Store_603,Sydney,NSW,36556,6011,Financial Institution
+M0255,Store_604,Brisbane,QLD,28233,5411,Retail Store
+M0045,Store_605,Perth,WA,73819,5411,Retail Store
+M0417,Store_606,Darwin,NT,55407,5732,Electronics Store
+M0001,Store_607,Adelaide,SA,13855,5814,Restaurant/Food
+M0213,Store_608,Sydney,NSW,23059,5814,Restaurant/Food
+M0569,Store_609,Sydney,NSW,41843,5411,Retail Store
+M0029,Store_610,Sydney,NSW,91379,4111,Transportation
+M0098,Store_611,Brisbane,QLD,63270,5411,Retail Store
+M0325,Store_612,Perth,WA,64637,5814,Restaurant/Food
+M0328,Store_613,Adelaide,SA,40108,5411,Retail Store
+M0521,Store_614,Sydney,NSW,92467,5411,Retail Store
+M0052,Store_615,Canberra,ACT,69668,6011,Financial Institution
+M0515,Store_616,Adelaide,SA,10788,4111,Transportation
+M0623,Store_617,Perth,WA,45977,5814,Restaurant/Food
+M0177,Store_618,Darwin,NT,74823,5814,Restaurant/Food
+M0353,Store_619,Darwin,NT,28217,5411,Retail Store
+M0166,Store_620,Canberra,ACT,34315,5814,Restaurant/Food
+M0225,Store_621,Canberra,ACT,26777,5411,Retail Store
+M0463,Store_622,Sydney,NSW,67741,4111,Transportation
+M0037,Store_623,Canberra,ACT,52971,5814,Restaurant/Food
+M0457,Store_624,Darwin,NT,57358,5999,Miscellaneous Retail
+M0351,Store_625,Sydney,NSW,40247,5999,Miscellaneous Retail
+M0267,Store_626,Sydney,NSW,53762,5814,Restaurant/Food
+M0490,Store_627,Brisbane,QLD,59368,5999,Miscellaneous Retail
+M0395,Store_628,Darwin,NT,28535,5411,Retail Store
+M0591,Store_629,Canberra,ACT,61701,5814,Restaurant/Food
+M0671,Store_630,Melbourne,VCT,16829,6011,Financial Institution
+M0161,Store_631,Sydney,NSW,72467,5999,Miscellaneous Retail
+M0220,Store_632,Darwin,NT,99056,5814,Restaurant/Food
+M0086,Store_633,Adelaide,SA,68133,5999,Miscellaneous Retail
+M0430,Store_634,Canberra,ACT,24767,6011,Financial Institution
+M0194,Store_635,Brisbane,QLD,50123,4111,Transportation
+M0156,Store_636,Sydney,NSW,14229,5814,Restaurant/Food
+M0374,Store_637,Canberra,ACT,82768,5814,Restaurant/Food
+M0102,Store_638,Brisbane,QLD,56168,5411,Retail Store
+M0577,Store_639,Melbourne,VCT,44805,5411,Retail Store
+M0345,Store_640,Darwin,NT,52396,5411,Retail Store
+M0547,Store_641,Melbourne,VCT,22919,6011,Financial Institution
+M0122,Store_642,Melbourne,VCT,11457,5411,Retail Store
+M0624,Store_643,Perth,WA,45554,5411,Retail Store
+M0451,Store_644,Adelaide,SA,38308,5411,Retail Store
+M0089,Store_645,Perth,WA,75056,5411,Retail Store
+M0232,Store_646,Sydney,NSW,59086,5814,Restaurant/Food
+M0240,Store_647,Canberra,ACT,67051,5814,Restaurant/Food
+M0153,Store_648,Brisbane,QLD,99017,5814,Restaurant/Food
+M0668,Store_649,Canberra,ACT,54970,5999,Miscellaneous Retail
+M0031,Store_650,Melbourne,VCT,16420,5814,Restaurant/Food
+M0047,Store_651,Canberra,ACT,12464,5814,Restaurant/Food
+M0136,Store_652,Melbourne,VCT,47525,5732,Electronics Store
+M0493,Store_653,Melbourne,VCT,14547,4111,Transportation
+M0216,Store_654,Perth,WA,25047,5814,Restaurant/Food
+M0401,Store_655,Sydney,NSW,30009,5411,Retail Store
+M0406,Store_656,Sydney,NSW,78156,6011,Financial Institution
+M0409,Store_657,Sydney,NSW,95783,5411,Retail Store
+M0429,Store_658,Darwin,NT,84841,5814,Restaurant/Food
+M0270,Store_659,Adelaide,SA,87175,5814,Restaurant/Food
+M0239,Store_660,Melbourne,VCT,33058,5411,Retail Store
+M0129,Store_661,Brisbane,QLD,90698,5814,Restaurant/Food
+M0348,Store_662,Adelaide,SA,42288,5814,Restaurant/Food
+M0011,Store_663,Perth,WA,72141,5732,Electronics Store
+M0305,Store_664,Adelaide,SA,30405,5411,Retail Store
+M0106,Store_665,Perth,WA,45289,6011,Financial Institution
+M0472,Store_666,Brisbane,QLD,59385,5411,Retail Store
+M0227,Store_667,Brisbane,QLD,48019,5732,Electronics Store
+M0399,Store_668,Perth,WA,72103,5411,Retail Store
+M0599,Store_669,Brisbane,QLD,59776,5411,Retail Store
+M0644,Store_670,Sydney,NSW,92166,6011,Financial Institution
+M0199,Store_671,Melbourne,VCT,88682,5999,Miscellaneous Retail
+M0281,Store_672,Darwin,NT,54493,5411,Retail Store
+M0504,Store_673,Sydney,NSW,14846,6011,Financial Institution
+M0646,Store_674,Darwin,NT,60262,5411,Retail Store
+M0426,Store_675,Brisbane,QLD,22080,5999,Miscellaneous Retail
+M0637,Store_676,Brisbane,QLD,16872,6011,Financial Institution
+M0635,Store_677,Melbourne,VCT,15869,5814,Restaurant/Food
+M0268,Store_678,Melbourne,VCT,51171,5814,Restaurant/Food
+M0438,Store_679,Canberra,ACT,74986,5814,Restaurant/Food
+M0046,Store_680,Adelaide,SA,99222,6011,Financial Institution
+M0464,Store_681,Perth,WA,87751,5411,Retail Store
+M0479,Store_682,Adelaide,SA,87135,5999,Miscellaneous Retail
+M0674,Store_683,Brisbane,QLD,16921,5814,Restaurant/Food
+M0355,Store_684,Brisbane,QLD,91150,4111,Transportation
+M0510,Store_685,Melbourne,VCT,43404,5814,Restaurant/Food
+M0681,Store_686,Brisbane,QLD,91439,5411,Retail Store
+M0143,Store_687,Adelaide,SA,48662,5411,Retail Store
+M0140,Store_688,Brisbane,QLD,93201,5411,Retail Store
+M0658,Store_689,Perth,WA,41386,5411,Retail Store
+M0435,Store_690,Adelaide,SA,65616,5411,Retail Store
+M0205,Store_691,Brisbane,QLD,23127,5999,Miscellaneous Retail
+M0609,Store_692,Melbourne,VCT,36150,5814,Restaurant/Food
+M0055,Store_693,Brisbane,QLD,78064,5411,Retail Store
+M0366,Store_694,Adelaide,SA,47427,4111,Transportation
+M0339,Store_695,Canberra,ACT,46904,5411,Retail Store
+M0186,Store_696,Melbourne,VCT,47383,5411,Retail Store
+M0042,Store_697,Canberra,ACT,80718,5411,Retail Store
+M0477,Store_698,Canberra,ACT,75132,5411,Retail Store
+M0323,Store_699,Darwin,NT,20610,4111,Transportation
